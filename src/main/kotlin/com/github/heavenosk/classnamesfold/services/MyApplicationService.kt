@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.heavenosk.classnamesfold.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.heavenosk.classnamesfold.MyBundle
 
 class MyApplicationService {
 
